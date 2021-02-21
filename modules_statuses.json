@@ -1,0 +1,7 @@
+{
+    "Essentials": true,
+    "ProductCatalogue": true,
+    "Repair": true,
+    "Superadmin": true,
+    "Woocommerce": true
+}
